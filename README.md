@@ -19,5 +19,5 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### 📊 GitHub
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siftanzil&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siftanzil&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=siftanzil&theme=merko&hide_border=false)
