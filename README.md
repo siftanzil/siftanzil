@@ -15,4 +15,4 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
 ### 📊 GitHub
-![](https://github-readme-streak-stats.herokuapp.com/?user=siftanzil&theme=merko&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siftanzil&hide=css,scss,html&theme=tokyonight)
