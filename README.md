@@ -1,5 +1,5 @@
 ### 💫 
-🔭 Working on **E-Learning site with Django**<br>🌱 Taking **'The Ultimate Data Structures & Algorithms' by Mosh Hamadani** <br>⚡ In the final stage of **Full Stack Developer(JS-Python) career track from Bohubrihi**<br><br>~~ Looking for an **internship/entry level position (preferably React-Django stack)**<br>~~ **Planning to invest lot of time on Database skills**
+🌱 Taking **'The Ultimate Data Structures & Algorithms' by Mosh Hamadani** <br>⚡ In the final stage of **Full Stack Developer(JS-Python) career track from Bohubrihi**<br><br>~~ Looking for an **internship/entry level position (preferably React-Django stack)**<br>~~ **Planning to invest lot of time on Database skills**
 
 ### 💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -16,3 +16,4 @@
 
 ### 📊 GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siftanzil&hide=css,scss,html&theme=tokyonight)
+  
