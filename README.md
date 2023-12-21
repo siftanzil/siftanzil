@@ -1,5 +1,5 @@
 ### 💫 
-🌱 Taking **Full Stack Open course from University of Helsinky online** <br>⚡ In the final stage of **Full Stack Developer(JS-Python) career track from Bohubrihi**<br>
+🌱 Taking **Full Stack Open course from University of Helsinky online** <br>
 🛠️ Collaborating with friends in a **startup project and building the Frontend with React Native**<br>
 <br>~~ Looking for an **internship/entry level position**<br>~~ also **Improving Testing skills**
 
